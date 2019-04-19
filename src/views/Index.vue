@@ -2,7 +2,7 @@
   <div class="index">
     <header>
       <a class="logo" href="#">
-        <img src="../assets/imgs/head-logo.png" alt>
+        <img src="../assets/imgs/logo.png" alt>
       </a>
       <van-search placeholder="建行信用卡专享全场8期/12期免息"  :class="{}"  @click="searchHandle"/>
       <a class="customer-service bgImg" href="#"></a>
